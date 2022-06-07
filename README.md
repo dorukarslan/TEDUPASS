@@ -1,4 +1,4 @@
-# Face-Recognition-for-Entrance
+# TEDUPASS
 Face recognition system for campus entrance
 
 
