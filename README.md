@@ -2,6 +2,7 @@
 Face recognition system for campus entrance
 
 
+![ezgif com-gif-maker(3)](https://user-images.githubusercontent.com/79598598/172455958-982e850d-e510-4606-bcbf-3442b3fc7a0a.gif)
 
 
 
